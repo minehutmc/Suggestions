@@ -36,4 +36,4 @@ This way developers can see at a glance which suggestions are most favored in th
 * Submit issues that are general suggestions as opposed to specific ideas
 * Create disrespectful or inflammatory comments
 
-**Please note: This is not the place to report bugs or issues. Your ticket will be deleted and you will be redirected.**
+**Please note: This is not the place to report bugs or issues. Your ticket will be deleted and you will be redirected elsewhere.**
