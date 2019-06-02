@@ -20,3 +20,20 @@ Votes are an objective way to see if users like or dislike a suggestion.
 
 This way developers can see at a glance which suggestions are most favored in the community.
 
+### Do:
+
+* Search the tracker to ensure that your idea is not a duplicate
+* Be clear and concise in your title & description
+* Take advantage of [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) -- it's awesome, and it makes your submission that much better!
+* Create a unique thread for each suggestion
+
+### Do not:
+
+* Bump issues to receive a response (all issues are acknowledged)
+* Argue unproductively in an issue's comments
+* Re-create an issue you feel unjustly closed
+* Add comments such as 👍, +1 or "I like this idea" *(instead upvote or downvote using reactions)*
+* Submit issues that are general suggestions as opposed to specific ideas
+* Create disrespectful or inflammatory comments
+
+**Please note: This is not the place to report bugs or issues. Your ticket will be deleted and you will be redirected.**
