@@ -2,7 +2,7 @@
 
 Welcome to the Minehut Suggestions tracker. Here you can submit your ideas of potential features Minehut should implement to our network and collaborate with other users who have suggested their own.
 
-### Map
+## Map
 
 * [Suggest a feature](https://github.com/minehutmc/suggestions/issues/new)
 * [View popular suggestions](https://github.com/minehutmc/suggestions/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
@@ -14,7 +14,7 @@ Categories
 * [Plugin suggestions](https://github.com/minehutmc/suggestions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Aplugin+)
 * [Event suggestions](https://github.com/minehutmc/suggestions/issues?q=is%3Aopen+is%3Aissue+label%3Aevents)
 
-### Submitting a Suggestion
+## Submitting a Suggestion
 
 ***Note before suggesting:*** *Please make sure your suggestion has not already been submitted and is not a bug.*
 
@@ -23,7 +23,7 @@ Categories
 3. If necessary, explain your suggestion in more detail in the description. Feel free to add resources like images, videos, and links to elaborate.
 4. Submit your suggestion to the world!
 
-### Voting on other Suggestions
+## Voting on other Suggestions
 
 Votes are an objective way to see if users like or dislike a suggestion.
 
@@ -32,14 +32,14 @@ Votes are an objective way to see if users like or dislike a suggestion.
 
 This way developers can see at a glance which suggestions are most favored in the community.
 
-### Do:
+## Do:
 
 * Search the tracker to ensure that your idea is not a duplicate
 * Be clear and concise in your title & description
 * Take advantage of [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) -- it's awesome, and it makes your submission that much better!
 * Create a unique thread for each suggestion
 
-### Do not:
+## Do not:
 
 * Bump issues to receive a response (all issues are acknowledged)
 * Argue unproductively in an issue's comments
