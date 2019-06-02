@@ -2,6 +2,16 @@
 
 Welcome to the Minehut Suggestions tracker. Here you can submit your ideas of potential features Minehut should implement to our network and collaborate with other users who have suggested their own.
 
+### Map
+
+* [Suggest a feature](https://github.com/minehutmc/suggestions/issues/new
+* [View popular suggestions](https://github.com/minehutmc/suggestions/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+Categories
+* [Main suggestions](https://github.com/minehutmc/suggestions/issues?q=is%3Aopen+is%3Aissue+label%3Afeature)
+* [Discord suggestions](https://github.com/minehutmc/suggestions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Adiscord)
+* [Plugin suggestions](https://github.com/minehutmc/suggestions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Aplugin+)
+* [Event suggestions](https://github.com/minehutmc/suggestions/issues?q=is%3Aopen+is%3Aissue+label%3Aevents)
+
 ### Submitting a Suggestion
 
 ***Note before suggesting:*** *Please make sure your suggestion has not already been submitted and is not a bug.*
