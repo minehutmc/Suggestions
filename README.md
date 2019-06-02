@@ -1,2 +1,4 @@
-# suggestions
-User suggestions for the Minehut network
+# Minehut Suggestions
+
+Welcome to the Minehut Suggestions tracker.
+
