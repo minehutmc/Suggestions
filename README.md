@@ -4,7 +4,7 @@ Welcome to the Minehut Suggestions tracker. Here you can submit your ideas of po
 
 ## Map
 
-* [Suggest a feature](https://github.com/minehutmc/suggestions/issues/new)
+* [**Suggest a feature**](https://github.com/minehutmc/suggestions/issues/new)
 * [View popular suggestions](https://github.com/minehutmc/suggestions/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 * [View organized suggestions](https://github.com/minehutmc/Suggestions/projects/1?fullscreen=true)
 
