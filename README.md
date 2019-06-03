@@ -10,7 +10,7 @@ Welcome to the Minehut Suggestions tracker. Here you can submit your ideas of po
 
 Categories
 
-* [Main suggestions](https://github.com/minehutmc/suggestions/issues?q=is%3Aopen+is%3Aissue+label%3Afeature)
+* [**All suggestions**](https://github.com/minehutmc/suggestions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue)
 * [Discord suggestions](https://github.com/minehutmc/suggestions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Adiscord)
 * [Plugin suggestions](https://github.com/minehutmc/suggestions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Aplugin+)
 * [Event suggestions](https://github.com/minehutmc/suggestions/issues?q=is%3Aopen+is%3Aissue+label%3Aevents)
